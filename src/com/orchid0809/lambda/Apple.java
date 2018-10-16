@@ -10,7 +10,7 @@ public class Apple {
 
     public String getColor() {
         System.out.println("lvcha");
-        System.out.println("hhehe");
+        System.out.println("hheheaaaaa");
         return color;
 
     }
