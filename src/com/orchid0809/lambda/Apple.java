@@ -9,7 +9,9 @@ public class Apple {
     private int weight;
 
     public String getColor() {
+        System.out.println("lvcha");
         return color;
+
     }
 
     public void setColor(String color) {
